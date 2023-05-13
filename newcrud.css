@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+}
+
+table {
+    border-color: white;
+}
+
+td {
+    padding: 8px 14px;
+}
+
+.col {
+    font-weight: bolder;
+    font-size: medium;
+    background-color: beige;
+}
+tr {
+    background-color: beige;
+    text-align: center;
+}
+#msg {
+    font-weight: bolder;
+    font-size: 20px;
+    color: red;
+}
